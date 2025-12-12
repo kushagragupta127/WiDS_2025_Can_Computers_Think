@@ -31,10 +31,7 @@ You have your toolkit ready; now it is time to dive into reinforcement learning.
 
 - Code or notebook showing your implementations and experiments.
 - Plots comparing at least two strategies on the same problem instance.
-- A short write-up (in the notebook or cohort doc) answering:
-  - When did ε-greedy outperform greedy in your experiments?
-  - How does changing ε affect convergence and stability?
-- (Optional) A question you would like the group to discuss during the sync.
+
 
 ## Extensions
 
@@ -46,6 +43,6 @@ You have your toolkit ready; now it is time to dive into reinforcement learning.
 
 - Keep experiments reproducible by setting a random seed.
 - Use tqdm or print statements sparingly to avoid slowing down large runs.
-- Commit early and often; reviewers love seeing how your thinking evolved.
+
 
 Once you are comfortable with bandits, you are ready for Week 2 where Markov decision processes and dynamic programming await.
